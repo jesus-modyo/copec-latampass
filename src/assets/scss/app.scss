@@ -5,6 +5,7 @@ html,
 .body {
   background: white !important;
 }
+
 .socialNetworks,
 .marcas,
 .textos {
@@ -14,7 +15,13 @@ html,
 .textos p {
   color: white;
 }
+
+.logo-copec {
+  margin-left:20%;
+}
+
 .latam {
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 160px;
+  min-width: 120px;
+  margin-right: 20%;
 }
